@@ -96,5 +96,5 @@ Open a web browser and navigate to http://localhost:5175 to use the TownGuard lo
 
 ## Developed By
 
-TownGuard is developed by [Shadabb](https://github.com/shadabb26)
+TownGuard is developed by [Rohit](https://github.com/rohitdshinde)
 
